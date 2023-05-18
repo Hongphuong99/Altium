@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=NetOUT1_2 Pin=Rl1-2
+Removed Pin From Net: NetName=NetOUT2_2 Pin=Rl2-2
+Removed Pin From Net: NetName=GND Pin=Vin-1
+Removed Pin From Net: NetName=Net1000uF_1 Pin=Vin-2
+Removed Member From Class: ClassName=Schematic_Thu Member=Vin
+Change Component DesignItemId : Designator=OUT1 Old DesignItemId=Header2 New DesignItemId=Domino 2
+Change Component DesignItemId : Designator=OUT2 Old DesignItemId=Header2 New DesignItemId=Domino 2
+Change Component Footprint: Designator=OUT1 Old Footprint=Header2 New Footprint=DOMINO 2- 5mm
+Change Component Footprint: Designator=OUT2 Old Footprint=Header2 New Footprint=DOMINO 2- 5mm
+Change Component Comment : Designator=OUT1 Old Comment=12V New Comment=Domino 2
+Change Component Comment : Designator=OUT2 Old Comment=12V New Comment=Domino 2
+Added Component: Designator=SW?(SW1-SMD)
+Added Component: Designator=Vin 9-12V(DOMINO 2- 5mm)
+Added Pin To Net: NetName=GND Pin=Cx1-1
+Added Pin To Net: NetName=GND Pin=Cx3-1
+Added Pin To Net: NetName=VCC Pin=M2-8
+Added Pin To Net: NetName=NetOUT1_2 Pin=R3-2
+Added Pin To Net: NetName=NetOUT2_2 Pin=R5-2
+Added Pin To Net: NetName=VCC Pin=U2-7
+Added Pin To Net: NetName=VCC Pin=U2-20
+Added Pin To Net: NetName=VCC Pin=U2-21
+Added Pin To Net: NetName=GND Pin=Vin 9-12V-1
+Added Pin To Net: NetName=Net1000uF_1 Pin=Vin 9-12V-2
+Added Member To Class: ClassName=Schematic_Thu Member=Component SW? SW
+Added Member To Class: ClassName=Schematic_Thu Member=Component Vin 9-12V Domino 2
+Added Room: Name=Schematic_Thu

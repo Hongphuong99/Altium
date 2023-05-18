@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=I/O_1 Pin=U2-11
+Removed Pin From Net: NetName=I/O_2 Pin=U2-13
+Added Component: Designator=SW?(SW1-SMD)
+Added Pin To Net: NetName=I/O_1 Pin=U2-27
+Added Pin To Net: NetName=I/O_2 Pin=U2-28
+Added Member To Class: ClassName=Schematic_Thu Member=Component SW? SW
+Added Room: Name=Schematic_Thu

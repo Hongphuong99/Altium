@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=MOSI Pin=R11-2
+Removed Pin From Net: NetName=MISO Pin=R12-2
+Change Component DesignItemId : Designator=R11 Old DesignItemId=Res New DesignItemId=Res-SMD
+Change Component DesignItemId : Designator=R12 Old DesignItemId=Res New DesignItemId=Res-SMD
+Change Component Footprint: Designator=R11 Old Footprint=RES-1/4W New Footprint=RES-SMD-0805
+Change Component Footprint: Designator=R12 Old Footprint=RES-1/4W-SMALL New Footprint=RES-SMD-0805
+Change Component Designator: OldDesignator=MISO NewDesignator=LED2
+Change Component Designator: OldDesignator=MOSI NewDesignator=LED1
+Change Net Name : Old Net Name=NetMISO_1 New Net Name=NetLED2_1
+Change Net Name : Old Net Name=NetMOSI_1 New Net Name=NetLED1_1
+Added Pin To Net: NetName=OUT1 Pin=R11-2
+Added Pin To Net: NetName=OUT1 Pin=U2-24
+Added Net: Name=OUT1
+Added Pin To Net: NetName=OUT2 Pin=R12-2
+Added Pin To Net: NetName=OUT2 Pin=U2-25
+Added Net: Name=OUT2
+Added Room: Name=Schematic_Thu

@@ -1,0 +1,11 @@
+Added Component: Designator=M?(JP4-C2T)
+Added Pin To Net: NetName=GND Pin=M?-1
+Added Pin To Net: NetName=CE Pin=M?-2
+Added Pin To Net: NetName=SCK Pin=M?-3
+Added Pin To Net: NetName=MISO Pin=M?-4
+Added Pin To Net: NetName=IQR Pin=M?-5
+Added Pin To Net: NetName=MOSI Pin=M?-6
+Added Pin To Net: NetName=CSN Pin=M?-7
+Added Pin To Net: NetName=NetCx3_1 Pin=M?-8
+Added Member To Class: ClassName=Schematic_Thu Member=Component M? NRF24L01
+Added Room: Name=Schematic_Thu

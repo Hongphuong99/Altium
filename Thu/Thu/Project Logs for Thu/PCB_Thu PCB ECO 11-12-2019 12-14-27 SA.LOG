@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=Net1000uF_1 Pin=C13-1
+Removed Pin From Net: NetName=GND Pin=C13-2
+Removed Pin From Net: NetName=NetC14_2 Pin=S2-1
+Removed Pin From Net: NetName=VCC Pin=S2-2
+Removed Member From Class: ClassName=Schematic_Thu Member=S2
+Change Component Footprint: Designator=C3 Old Footprint=CN1.5 New Footprint=CN-SMD-0805
+Change Component Footprint: Designator=C4 Old Footprint=CN1.5 New Footprint=CN-SMD-0805
+Change Component Footprint: Designator=C13 Old Footprint=CN1.5 New Footprint=CN-SMD-0805
+Change Component Footprint: Designator=C14 Old Footprint=CN1.5 New Footprint=CN-SMD-0805
+Added Component: Designator=SW(RES-1/4W-SMALL)
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=Net1000uF_1 Pin=C13-2
+Added Pin To Net: NetName=VCC Pin=SW-1
+Added Pin To Net: NetName=NetC14_2 Pin=SW-2
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=U2-9
+Added Pin To Net: NetName=NetC3_2 Pin=X2-2
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=U2-10
+Added Pin To Net: NetName=NetC4_2 Pin=X2-1
+Added Net: Name=NetC4_2
+Added Member To Class: ClassName=Schematic_Thu Member=Component SW Switch

@@ -1,0 +1,6 @@
+Added Component: Designator=SW?(SW1-SMD)
+Added Pin To Net: NetName=GND Pin=1000uF-2
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=Vin-1
+Added Member To Class: ClassName=Schematic_Thu Member=Component SW? SW
+Added Room: Name=Schematic_Thu

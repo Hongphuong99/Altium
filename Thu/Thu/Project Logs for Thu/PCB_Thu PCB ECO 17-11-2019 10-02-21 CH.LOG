@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=CE Pin=U2-15
+Removed Pin From Net: NetName=SCK Pin=U2-16
+Removed Pin From Net: NetName=MISO Pin=U2-17
+Removed Pin From Net: NetName=IQR Pin=U2-18
+Removed Pin From Net: NetName=CSN Pin=U2-23
+Added Component: Designator=SW?(SW1-SMD)
+Added Pin To Net: NetName=CSN Pin=U2-15
+Added Pin To Net: NetName=CE Pin=U2-16
+Added Pin To Net: NetName=SCK Pin=U2-17
+Added Pin To Net: NetName=MISO Pin=U2-18
+Added Pin To Net: NetName=IQR Pin=U2-19
+Added Member To Class: ClassName=Schematic_Thu Member=Component SW? SW
+Added Room: Name=Schematic_Thu

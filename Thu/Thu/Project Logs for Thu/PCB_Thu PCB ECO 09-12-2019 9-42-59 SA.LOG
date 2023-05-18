@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=I/O_1 Pin=U2-27
+Added Component: Designator=MISO(LED-3MM-RED)
+Added Component: Designator=MOSI(LED-3MM-RED)
+Added Component: Designator=R11(RES-SMD-0805)
+Added Component: Designator=R12(RES-SMD-0805)
+Added Pin To Net: NetName=GND Pin=MISO-2
+Added Pin To Net: NetName=GND Pin=MOSI-2
+Added Pin To Net: NetName=MOSI Pin=R11-2
+Added Pin To Net: NetName=MISO Pin=R12-2
+Added Pin To Net: NetName=NetMISO_1 Pin=MISO-1
+Added Pin To Net: NetName=NetMISO_1 Pin=R12-1
+Added Net: Name=NetMISO_1
+Added Pin To Net: NetName=NetMOSI_1 Pin=MOSI-1
+Added Pin To Net: NetName=NetMOSI_1 Pin=R11-1
+Added Net: Name=NetMOSI_1
+Added Member To Class: ClassName=Schematic_Thu Member=Component MISO LED
+Added Member To Class: ClassName=Schematic_Thu Member=Component MOSI LED
+Added Member To Class: ClassName=Schematic_Thu Member=Component R11 1k
+Added Member To Class: ClassName=Schematic_Thu Member=Component R12 1k
+Added Room: Name=Schematic_Thu

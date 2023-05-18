@@ -1,0 +1,5 @@
+Change Component DesignItemId : Designator=R11 Old DesignItemId=Res-SMD New DesignItemId=Res
+Change Component DesignItemId : Designator=R12 Old DesignItemId=Res-SMD New DesignItemId=Res
+Change Component Footprint: Designator=R11 Old Footprint=RES-SMD-0805 New Footprint=RES-1/4W-SMALL
+Change Component Footprint: Designator=R12 Old Footprint=RES-SMD-0805 New Footprint=RES-1/4W-SMALL
+Added Room: Name=Schematic_Thu

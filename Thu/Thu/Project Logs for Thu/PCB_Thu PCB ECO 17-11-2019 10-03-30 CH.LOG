@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=IQR Pin=U2-19
+Added Component: Designator=SW?(SW1-SMD)
+Added Pin To Net: NetName=IQR Pin=U2-25
+Added Member To Class: ClassName=Schematic_Thu Member=Component SW? SW
+Added Room: Name=Schematic_Thu

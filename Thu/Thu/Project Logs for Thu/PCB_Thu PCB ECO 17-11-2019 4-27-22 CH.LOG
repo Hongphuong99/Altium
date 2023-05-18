@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=1000uF-2
+Removed Pin From Net: NetName=GND Pin=C13-2
+Removed Pin From Net: NetName=VCC Pin=C14-2
+Removed Pin From Net: NetName=VCC Pin=LM7805-3
+Removed Pin From Net: NetName=GND Pin=Vin-1
+Change Component DesignItemId : Designator=SW2 Old DesignItemId=SW2 New DesignItemId=SW-PB
+Change Component Footprint: Designator=SW2 Old Footprint=SW1-DIP New Footprint=SPST-2
+Change Component Comment : Designator=SW2 Old Comment=SW New Comment=SW-PB
+Added Component: Designator=S2(SPST-2)
+Added Component: Designator=SW?(SW1-SMD)
+Added Pin To Net: NetName=VCC Pin=S2-2
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=NetC14_2 Pin=LM7805-3
+Added Pin To Net: NetName=NetC14_2 Pin=S2-1
+Added Net: Name=NetC14_2
+Added Member To Class: ClassName=Schematic_Thu Member=Component S2 SW-SPST
+Added Member To Class: ClassName=Schematic_Thu Member=Component SW? SW
+Added Room: Name=Schematic_Thu

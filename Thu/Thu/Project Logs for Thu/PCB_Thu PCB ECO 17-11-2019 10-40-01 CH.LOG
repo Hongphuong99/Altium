@@ -1,0 +1,21 @@
+Removed Member From Class: ClassName=Schematic_Thu Member=LED1
+Removed Member From Class: ClassName=Schematic_Thu Member=LED2
+Added Component: Designator=Rl1(RES-1/2W)
+Added Component: Designator=Rl2(RES-1/2W)
+Added Component: Designator=SW?(SW1-SMD)
+Added Pin To Net: NetName=NetOUT1_2 Pin=OUT1-2
+Added Pin To Net: NetName=NetOUT1_2 Pin=Rl1-2
+Added Net: Name=NetOUT1_2
+Added Pin To Net: NetName=NetOUT2_2 Pin=OUT2-2
+Added Pin To Net: NetName=NetOUT2_2 Pin=Rl2-2
+Added Net: Name=NetOUT2_2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=Rl1-1
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=Rl2-1
+Added Net: Name=NetR5_2
+Added Member To Class: ClassName=Schematic_Thu Member=Component RL1 Relay 10A/5V
+Added Member To Class: ClassName=Schematic_Thu Member=Component RL2 Relay 10A/5V
+Added Member To Class: ClassName=Schematic_Thu Member=Component SW? SW
+Added Room: Name=Schematic_Thu
