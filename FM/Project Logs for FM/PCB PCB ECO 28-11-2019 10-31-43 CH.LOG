@@ -1,0 +1,5 @@
+Added Component: Designator=C?(CA-ALU-10RL)
+Added Component: Designator=Cx?(CN1.5)
+Added Member To Class: ClassName=Sche Member=Component C? CN-ALU-DIP
+Added Member To Class: ClassName=Sche Member=Component Cx? XXpF
+Added Room: Name=Sche

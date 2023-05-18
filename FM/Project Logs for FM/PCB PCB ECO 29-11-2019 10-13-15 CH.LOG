@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=L Old Footprint=RES-SMD-0603 New Footprint=RES-SMD-1210
+Change Component Comment : Designator=L Old Comment=100n New Comment=150n
+Added Room: Name=Sche

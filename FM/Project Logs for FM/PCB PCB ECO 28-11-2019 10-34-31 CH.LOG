@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C1 Old Footprint=CA-ALU-10 New Footprint=CA-ALU-2.54
+Change Component Footprint: Designator=C2 Old Footprint=CA-ALU-10 New Footprint=CA-ALU-2.54
+Change Component Footprint: Designator=C3 Old Footprint=CA-ALU-10BL New Footprint=CA-ALU-2.54
+Added Room: Name=Sche

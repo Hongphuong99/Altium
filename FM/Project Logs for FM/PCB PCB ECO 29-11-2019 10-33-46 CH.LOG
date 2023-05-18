@@ -1,0 +1,7 @@
+Added Component: Designator=Cout(CN-SMD-0805)
+Added Pin To Net: NetName=NetCx1_1 Pin=Cout-2
+Change Net Name : Old Net Name=NetCx1_1 New Net Name=NetCout_2
+Added Pin To Net: NetName=OUT Pin=Cout-1
+Added Net: Name=OUT
+Added Member To Class: ClassName=Sche Member=Component Cout 33pF
+Added Room: Name=Sche
