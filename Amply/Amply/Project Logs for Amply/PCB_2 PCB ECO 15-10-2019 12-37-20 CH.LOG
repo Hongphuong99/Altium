@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=VR1 Old DesignItemId=VR-DPN New DesignItemId=VR-S
+Change Component Footprint: Designator=VR1 Old Footprint=VR-D1 New Footprint=VR-S1
+Added Room: Name=Sche_1

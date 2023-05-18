@@ -1,0 +1,13 @@
+Change Component DesignItemId : Designator=C3 Old DesignItemId=Cap New DesignItemId=Cap Non-Pol
+Change Component DesignItemId : Designator=C4 Old DesignItemId=Cap New DesignItemId=Cap Non-Pol
+Change Component DesignItemId : Designator=C5 Old DesignItemId=Cap New DesignItemId=Cap Non-Pol
+Change Component DesignItemId : Designator=C6 Old DesignItemId=Cap New DesignItemId=Cap Non-Pol
+Change Component Footprint: Designator=C3 Old Footprint=RAD-0.3 New Footprint=CN1.5
+Change Component Footprint: Designator=C4 Old Footprint=RAD-0.3 New Footprint=CN1.5
+Change Component Footprint: Designator=C5 Old Footprint=RAD-0.3 New Footprint=CN1.5
+Change Component Footprint: Designator=C6 Old Footprint=RAD-0.3 New Footprint=CN1.5
+Change Component Comment : Designator=C3 Old Comment=Cap New Comment=Cap Non-Pol
+Change Component Comment : Designator=C4 Old Comment=Cap New Comment=Cap Non-Pol
+Change Component Comment : Designator=C5 Old Comment=Cap New Comment=Cap Non-Pol
+Change Component Comment : Designator=C6 Old Comment=Cap New Comment=Cap Non-Pol
+Added Room: Name=Sche_1

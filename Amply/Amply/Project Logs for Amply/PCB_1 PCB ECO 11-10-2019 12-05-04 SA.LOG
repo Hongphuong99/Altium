@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=NetC4_2 Pin=RV1-1
+Removed Pin From Net: NetName=NetC3_1 Pin=RV1-2
+Removed Pin From Net: NetName=NetC7_2 Pin=RV1-3
+Removed Pin From Net: NetName=NetC6_1 Pin=RV2-1
+Removed Pin From Net: NetName=NetC5_1 Pin=RV2-2
+Removed Pin From Net: NetName=NetC5_2 Pin=RV2-3
+Removed Member From Class: ClassName=Sche_1 Member=RV1
+Removed Member From Class: ClassName=Sche_1 Member=RV2
+Added Component: Designator=VR1(VR-S3)
+Added Component: Designator=VR2(VR-S3)
+Added Pin To Net: NetName=NetC3_1 Pin=VR1-1
+Added Pin To Net: NetName=NetC7_2 Pin=VR1-2
+Added Pin To Net: NetName=NetC4_2 Pin=VR1-3
+Added Pin To Net: NetName=NetC5_1 Pin=VR2-1
+Added Pin To Net: NetName=NetC5_2 Pin=VR2-2
+Added Pin To Net: NetName=NetC6_1 Pin=VR2-3
+Added Member To Class: ClassName=Sche_1 Member=Component VR1 50K
+Added Member To Class: ClassName=Sche_1 Member=Component VR2 50K
+Added Room: Name=Sche_1

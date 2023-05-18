@@ -1,0 +1,2 @@
+Change Component Designator: OldDesignator=Vcc NewDesignator=Vout
+Added Member To Class: ClassName=Sche_2 Member=Component Vout Domino 2

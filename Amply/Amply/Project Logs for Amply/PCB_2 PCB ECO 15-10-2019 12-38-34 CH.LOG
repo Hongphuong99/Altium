@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetC5_1 Pin=VR2-4
+Removed Pin From Net: NetName=NetC5_2 Pin=VR2-5
+Removed Pin From Net: NetName=NetC6_1 Pin=VR2-6
+Change Component DesignItemId : Designator=VR2 Old DesignItemId=VR-DP New DesignItemId=VR-S
+Change Component Footprint: Designator=VR2 Old Footprint=VR-D1 New Footprint=VR-S1
+Added Pin To Net: NetName=NetC5_1 Pin=VR2-1
+Added Pin To Net: NetName=NetC5_2 Pin=VR2-2
+Added Pin To Net: NetName=NetC6_1 Pin=VR2-3
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=VR1-1
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=VR1-3
+Added Net: Name=NetC4_2
+Added Room: Name=Sche_1

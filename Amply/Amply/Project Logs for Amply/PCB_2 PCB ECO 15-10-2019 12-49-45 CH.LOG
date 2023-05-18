@@ -1,0 +1,5 @@
+Change Component Comment : Designator=1Meg Old Comment=R1 New Comment=1Meg
+Change Component Designator: OldDesignator=1Meg NewDesignator=R1
+Change Net Name : Old Net Name=Net1Meg_1 New Net Name=NetC2_1
+Change Net Name : Old Net Name=Net1Meg_2 New Net Name=NetC1_1
+Added Room: Name=Sche_1
