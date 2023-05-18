@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=VCC Pin=D1-2
+Removed Pin From Net: NetName=VCC Pin=D2-2
+Removed Pin From Net: NetName=GND Pin=Q1-1
+Removed Pin From Net: NetName=GND Pin=Q2-1
+Removed Pin From Net: NetName=VCC Pin=RL1-5
+Removed Pin From Net: NetName=VCC Pin=RL2-5
+Removed Member From Class: ClassName=Schematic_Phat Member=D1
+Removed Member From Class: ClassName=Schematic_Phat Member=D2
+Removed Member From Class: ClassName=Schematic_Phat Member=OUT1
+Removed Member From Class: ClassName=Schematic_Phat Member=OUT2
+Removed Member From Class: ClassName=Schematic_Phat Member=Q1
+Removed Member From Class: ClassName=Schematic_Phat Member=Q2
+Removed Member From Class: ClassName=Schematic_Phat Member=R2
+Removed Member From Class: ClassName=Schematic_Phat Member=R3
+Removed Member From Class: ClassName=Schematic_Phat Member=R4
+Removed Member From Class: ClassName=Schematic_Phat Member=R5
+Removed Member From Class: ClassName=Schematic_Phat Member=RL1
+Removed Member From Class: ClassName=Schematic_Phat Member=RL2
+Added Component: Designator=C5(SR501)
+Added Pin To Net: NetName=I/O Pin=U2-28
+Added Net: Name=I/O

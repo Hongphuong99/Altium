@@ -1,0 +1,80 @@
+Removed Pin From Net: NetName=I/O Pin=Designator1-28
+Change Component Comment : Designator=Designator1 Old Comment=Comment New Comment=1k
+Change Component Comment : Designator=Designator1 Old Comment=Comment New Comment=10k
+Change Component Comment : Designator=Designator1 Old Comment=Comment New Comment=16Mhz
+Change Component Comment : Designator=Designator1 Old Comment=Comment New Comment=22pF
+Change Component Comment : Designator=Designator1 Old Comment=Comment New Comment=22pF
+Change Component Comment : Designator=Designator1 Old Comment=Comment New Comment=104
+Change Component Comment : Designator=Designator1 Old Comment=Comment New Comment=104
+Change Component Comment : Designator=Designator1 Old Comment=Comment New Comment=104
+Change Component Comment : Designator=Designator1 Old Comment=Comment New Comment=104
+Change Component Comment : Designator=Designator1 Old Comment=Comment New Comment=104
+Change Component Comment : Designator=Designator1 Old Comment=Comment New Comment=ATmega328-PU
+Change Component Comment : Designator=Designator1 Old Comment=Comment New Comment=CN-ALU-DIP
+Change Component Comment : Designator=Designator1 Old Comment=Comment New Comment=CN-ALU-DIP
+Change Component Comment : Designator=Designator1 Old Comment=Comment New Comment=Domino 2
+Change Component Comment : Designator=Designator1 Old Comment=Comment New Comment=Header3
+Change Component Comment : Designator=Designator1 Old Comment=Comment New Comment=LED
+Change Component Comment : Designator=Designator1 Old Comment=Comment New Comment=LM78xx
+Change Component Comment : Designator=Designator1 Old Comment=Comment New Comment=NRF24L01
+Change Component Comment : Designator=Designator1 Old Comment=Comment New Comment=SW-PB
+Change Component Comment : Designator=Designator1 Old Comment=Comment New Comment=SW-SPST
+Change Component Designator: OldDesignator=Designator1 NewDesignator= 
+Change Component Designator: OldDesignator=Designator1 NewDesignator=100uF
+Change Component Designator: OldDesignator=Designator1 NewDesignator=1000uF
+Change Component Designator: OldDesignator=Designator1 NewDesignator=C1
+Change Component Designator: OldDesignator=Designator1 NewDesignator=C3
+Change Component Designator: OldDesignator=Designator1 NewDesignator=C4
+Change Component Designator: OldDesignator=Designator1 NewDesignator=C13
+Change Component Designator: OldDesignator=Designator1 NewDesignator=C14
+Change Component Designator: OldDesignator=Designator1 NewDesignator=Cx1
+Change Component Designator: OldDesignator=Designator1 NewDesignator=Cx3
+Change Component Designator: OldDesignator=Designator1 NewDesignator=LED
+Change Component Designator: OldDesignator=Designator1 NewDesignator=LM7805
+Change Component Designator: OldDesignator=Designator1 NewDesignator=M?
+Change Component Designator: OldDesignator=Designator1 NewDesignator=R1
+Change Component Designator: OldDesignator=Designator1 NewDesignator=R10
+Change Component Designator: OldDesignator=Designator1 NewDesignator=S2
+Change Component Designator: OldDesignator=Designator1 NewDesignator=SW2
+Change Component Designator: OldDesignator=Designator1 NewDesignator=U2
+Change Component Designator: OldDesignator=Designator1 NewDesignator=Vin 9-12V
+Change Component Designator: OldDesignator=Designator1 NewDesignator=X2
+Added Component: Designator=C10(HDR5)
+Added Component: Designator=C(HDR3)
+Added Pin To Net: NetName=GND Pin= -1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=VCC Pin=C10-5
+Added Pin To Net: NetName=VCC Pin=C-1
+Added Pin To Net: NetName=I/O Pin=C-2
+Added Pin To Net: NetName=GND Pin=C-3
+Added Pin To Net: NetName=VCC Pin=R1-1
+Added Pin To Net: NetName=I/O Pin=U2-23
+Added Pin To Net: NetName=SCL Pin=C10-4
+Added Pin To Net: NetName=SCL Pin=U2-28
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=C10-3
+Added Pin To Net: NetName=SDA Pin=U2-27
+Added Net: Name=SDA
+Added Member To Class: ClassName=Schematic_Phat Member=Component 100uF CN-ALU-DIP
+Added Member To Class: ClassName=Schematic_Phat Member=Component 1000uF CN-ALU-DIP
+Added Member To Class: ClassName=Schematic_Phat Member=Component C1 Header3
+Added Member To Class: ClassName=Schematic_Phat Member=Component C3 22pF
+Added Member To Class: ClassName=Schematic_Phat Member=Component C4 22pF
+Added Member To Class: ClassName=Schematic_Phat Member=Component C10 Header5
+Added Member To Class: ClassName=Schematic_Phat Member=Component C13 104
+Added Member To Class: ClassName=Schematic_Phat Member=Component C14 104
+Added Member To Class: ClassName=Schematic_Phat Member=Component C Header3
+Added Member To Class: ClassName=Schematic_Phat Member=Component Cx1 104
+Added Member To Class: ClassName=Schematic_Phat Member=Component Cx3 104
+Added Member To Class: ClassName=Schematic_Phat Member=Component LED
+Added Member To Class: ClassName=Schematic_Phat Member=Component LM7805 LM78xx
+Added Member To Class: ClassName=Schematic_Phat Member=Component M? NRF24L01
+Added Member To Class: ClassName=Schematic_Phat Member=Component R1 10k
+Added Member To Class: ClassName=Schematic_Phat Member=Component R10 1k
+Added Member To Class: ClassName=Schematic_Phat Member=Component S2 SW-SPST
+Added Member To Class: ClassName=Schematic_Phat Member=Component SW2 SW-PB
+Added Member To Class: ClassName=Schematic_Phat Member=Component   104
+Added Member To Class: ClassName=Schematic_Phat Member=Component U2 ATmega328-PU
+Added Member To Class: ClassName=Schematic_Phat Member=Component Vin 9-12V Domino 2
+Added Member To Class: ClassName=Schematic_Phat Member=Component X2 16Mhz
+Added Room: Name=Schematic_Phat

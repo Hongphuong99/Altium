@@ -1,0 +1,53 @@
+Added Component: Designator=1k(RES-1/2W)
+Added Component: Designator=100uF(CA-ALU-2.54)
+Added Component: Designator=1000uF(CA-ALU-2.54)
+Added Component: Designator=C1(CN1.5)
+Added Component: Designator=C2(CN1.5)
+Added Component: Designator=C3(SR501)
+Added Component: Designator=C13(CN1.5)
+Added Component: Designator=C14(CN1.5)
+Added Component: Designator=Cx1(CN-SMD-0805)
+Added Component: Designator=Cx2(CN-SMD-0805)
+Added Component: Designator=Cx3(CN-SMD-0805)
+Added Component: Designator=LED(LED-3MM-RED)
+Added Component: Designator=LM7805(TO220-123)
+Added Component: Designator=M1(NRF24L01)
+Added Component: Designator=P1(HDR1X2)
+Added Component: Designator=R1(RES-1/2W)
+Added Component: Designator=SW1(SW1-DIP)
+Added Component: Designator=U1(DIP28)
+Added Component: Designator=Vin(Header2)
+Added Component: Designator=X1(XT2)
+Added Net: Name=CE
+Added Net: Name=CSN
+Added Pin To Net: NetName=GND Pin=100uF-2
+Added Pin To Net: NetName=GND Pin=1000uF-2
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Net: Name=GND
+Added Net: Name=I/O
+Added Net: Name=IQR
+Added Net: Name=MISO
+Added Net: Name=MOSI
+Added Pin To Net: NetName=Net1k_1 Pin=1k-1
+Added Net: Name=Net1k_1
+Added Pin To Net: NetName=Net1000uF_1 Pin=1000uF-1
+Added Net: Name=Net1000uF_1
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Net: Name=NetC2_1
+Added Net: Name=NetCx1_1
+Added Net: Name=NetCx2_1
+Added Net: Name=NetCx3_1
+Added Net: Name=NetP1_1
+Added Net: Name=NetP1_2
+Added Net: Name=NetR1_1
+Added Net: Name=SCK
+Added Net: Name=SCL
+Added Net: Name=SDA
+Added Pin To Net: NetName=VCC Pin=1k-2
+Added Pin To Net: NetName=VCC Pin=100uF-1
+Added Net: Name=VCC
+Added Class: Name=Schematic_Phat
+Added Room: Name=Schematic_Phat
